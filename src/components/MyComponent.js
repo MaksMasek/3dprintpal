@@ -22,6 +22,8 @@ import wydruki_3d_zdjęcie9 from "../../public/images/profile/wydruki_3d_zdjęci
 import wydruki_3d_zdjęcie10 from "../../public/images/profile/wydruki_3d_zdjęcie10.jpg";
 import wydruki_3d_zdjęcie11 from "../../public/images/profile/wydruki_3d_zdjęcie11.jpg";
 import wydruki_3d_zdjęcie12 from "../../public/images/profile/wydruki_3d_zdjęcie12.jpg";
+import wydruki_3d_zdjęcie13 from "../../public/images/profile/wydruki_3d_zdjęcie13.jpg";
+import wydruki_3d_zdjęcie14 from "../../public/images/profile/wydruki_3d_zdjęcie14.jpg";
 
 import Image from "next/image";
 
@@ -132,6 +134,20 @@ const MyComponent = () => {
             <Image
               src={wydruki_3d_zdjęcie12}
               alt="Slide 13"
+              className="object-cover w-full h-full transition hover:scale-105"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Image
+              src={wydruki_3d_zdjęcie13}
+              alt="Slide 14"
+              className="object-cover w-full h-full transition hover:scale-105"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Image
+              src={wydruki_3d_zdjęcie14}
+              alt="Slide 14"
               className="object-cover w-full h-full transition hover:scale-105"
             />
           </SwiperSlide>
