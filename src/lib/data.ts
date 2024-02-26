@@ -9,7 +9,7 @@ import { GrDeliver } from "react-icons/gr";
 
 export const experiencesData = [
   {
-    title: "Send Project / model",
+    title: "You Send a Project / model",
     description:
       "First you send me a 3d model prefferably in .obj or .stl format, or just a project of what you want to print with maximal size of 20x20cm",
     icon: React.createElement(BsSend),
@@ -58,7 +58,7 @@ export const experiencesData = [
 
 
   {
-    title: "Deliver",
+    title: "I Deliver the prints",
     description:
       "I deliver your printed parts to an agreed location",
     icon: React.createElement(GrDeliver),
