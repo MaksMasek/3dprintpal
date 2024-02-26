@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Portfolio</title>
-        <meta name="description" content="Portfolio Maks" />
+        <title>3dPrintPal</title>
+        <meta name="description" content="3dPrintPal" />
       </Head>
       <Layout className="pt-0 xl:pt-0 lg:pt-0 md:pt-0 sm:pt-0">
       <main className="flex items-center text-dark w-full min-h-screen dark:text-light">
