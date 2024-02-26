@@ -66,6 +66,7 @@ const MyMission = () => {
                 turn your ideas into reality together – no project is too small
                 or too big for me!
               </p>
+              
             </div>
 
             <div className="relative col-span-3 rounded h-max xl:col-span-4 md:order-1 md:col-span-8">
