@@ -53,13 +53,7 @@ const MyComponent = () => {
             },
           }}
         >
-          <SwiperSlide>
-            <Image
-              src={wydruki_3d_zdjęcie1}
-              alt="Slide 1"
-              className="object-cover w-full h-full transition hover:scale-105"
-            />
-          </SwiperSlide>
+          
           <SwiperSlide>
             <Image
               src={wydruki_3d_zdjęcie2}
@@ -148,6 +142,13 @@ const MyComponent = () => {
             <Image
               src={wydruki_3d_zdjęcie14}
               alt="Slide 14"
+              className="object-cover w-full h-full transition hover:scale-105"
+            />
+          </SwiperSlide>
+          <SwiperSlide>
+            <Image
+              src={wydruki_3d_zdjęcie1}
+              alt="Slide 1"
               className="object-cover w-full h-full transition hover:scale-105"
             />
           </SwiperSlide>
