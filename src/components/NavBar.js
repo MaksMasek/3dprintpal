@@ -147,7 +147,7 @@ const NavBar = () => {
           </motion.a>
 
           <motion.a
-            href="https://www.instagram.com/maksmasek/"
+            href="https://www.instagram.com/3dprintpal/"
             target={"_blank"}
             whileHover={{ y: -2 }}
             whileTap={{ scale: 0.9 }}
